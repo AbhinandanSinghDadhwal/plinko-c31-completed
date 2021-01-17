@@ -1,1 +1,2 @@
-# plinko-c31-completed
+# Project 31 : Plinko
+Project 31 for WhiteHat
